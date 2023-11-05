@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    border: 2px salmon;
+gap: 20px;
+
+
+}
